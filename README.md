@@ -15,3 +15,6 @@ Compile and export the JAR, then run:
 ```bash
 java -jar Cryptograph.jar
 ```
+
+##Author
+Raffaele Fusco
