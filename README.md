@@ -16,5 +16,6 @@ Compile and export the JAR, then run:
 java -jar Cryptograph.jar
 ```
 
-##Author
-Raffaele Fusco
+## Author
+
+Raffaele Fusco (FuscoJr)
